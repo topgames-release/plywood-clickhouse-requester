@@ -1,5 +1,5 @@
 {
-  "name": "plywood-clickhouse-requester",
+  "name": "@topgames/plywood-clickhouse-requester",
   "version": "1.0.0",
   "description": "ClickHouse requester for Plywood (within node)",
   "keywords": [
