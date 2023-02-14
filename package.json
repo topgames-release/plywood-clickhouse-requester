@@ -1,6 +1,6 @@
 {
   "name": "@topgames/plywood-clickhouse-requester",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ClickHouse requester for Plywood (within node)",
   "keywords": [
     "clickhouse",
@@ -21,7 +21,7 @@
   "dependencies": {
     "@clickhouse/client": "^0.0.11",
     "plywood-base-api": "^0.2.9",
-    "readable-stream": "^4.3.0",
+    "readable-stream": "^3.0.3",
     "tdi": "^0.7.7"
   },
   "devDependencies": {
